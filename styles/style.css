@@ -624,6 +624,10 @@ a:hover svg {
   animation: bounce-back 300ms ease-out;
 }
 
+.now {
+  color: rgb(245, 245, 155);
+}
+
 @media (min-width: 768px) {
   /*************/
   /* Home PAGE */
